@@ -90,7 +90,7 @@ async function startZimBotInc() {
         if (!ZimBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(ZimBotInc, mek, store)
-        require("./ZimBot")(ZimBotInc, m, chatUpdate, store)
+        require("./zimbot")(ZimBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
