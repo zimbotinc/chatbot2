@@ -1,0 +1,96 @@
+{
+  "users": {
+    "447441437150@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "27781004118@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "447441437150@s.whatsapp.net": {
+      "mute": false,
+      "chatbot": true,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    },
+    "27781004118@s.whatsapp.net": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false
+    },
+    "120363041933152186@g.us": {
+      "mute": false,
+      "chatbot": true,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "27683276659@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateLocation": false,
+      "templateGif": true,
+      "templateMsg": false,
+      "templateList": false,
+      "templateDoc": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
